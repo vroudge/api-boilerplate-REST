@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/index.js"],"names":[],"mappings":"AAAA,YAAY,CAAC;;;;;;;;AAIb,eAAO,KAAK,EAAE,CAAC","file":"index.js","sourcesContent":["'use strict';\n\nimport server from './init';\n\nserver.start();\n"]}

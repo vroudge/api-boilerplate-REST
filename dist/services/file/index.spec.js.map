@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../src/services/file/index.spec.js"],"names":[],"mappings":";;;;;;;;AAEA,QAAQ,CAAC,qBAAqB,EAAE,YAAM;AAClC,MAAE,CAAC,2BAA2B,EAAE,YAAM,EAErC,CAAC,CAAC;CACN,CAAC,CAAC","file":"index.spec.js","sourcesContent":["import fileService from '../file';\n\ndescribe('[Services] - UPLOAD', () => {\n    it('takes a file and saves it', () => {\n\n    });\n});\n"]}

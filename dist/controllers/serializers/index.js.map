@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../src/controllers/serializers/index.js"],"names":[],"mappings":";;;;;kBAAc;AACb,aAAY,EAAE,CAAC,KAAK,EAAE,OAAO,CAAC;AAC9B,WAAU,EAAE,CAAC,KAAK,EAAE,OAAO,EAAE,OAAO,CAAC;CACrC","file":"index.js","sourcesContent":["export default{\n\tuserCreation: ['uid', 'token'],\n\tuserUpdate: ['uid', 'token', 'email']\n};\n"]}
